@@ -1,4 +1,4 @@
-# Translator for base ten numbers to binary
+# Translator for Base Ten Numbers to Binary
 This algorithm converts numbers that are found in a text to binary. Uses the Matlab function "dec2bin".
 ## Inputs and outputs
 - Inputs: Numbers in base 10
