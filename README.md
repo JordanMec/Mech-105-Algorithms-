@@ -1,5 +1,5 @@
 # Mech-105-Algorithms-
-All my created Algorithms for numerical methods in Mech 105
+All my numerical method algorithms I created in Mech 105 - Spring 2021.
 # List Of Code File Names
 ## False Position Algorithm
 A MatLab function that estimates the root of a given function.
